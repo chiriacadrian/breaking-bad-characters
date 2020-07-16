@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-characters/static/css/main.f53ddda0.chunk.css",
+    "main.js": "/breaking-bad-characters/static/js/main.36a420d4.chunk.js",
+    "main.js.map": "/breaking-bad-characters/static/js/main.36a420d4.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-characters/static/js/runtime-main.45e5277b.js",
+    "runtime-main.js.map": "/breaking-bad-characters/static/js/runtime-main.45e5277b.js.map",
+    "static/js/2.07fb14dd.chunk.js": "/breaking-bad-characters/static/js/2.07fb14dd.chunk.js",
+    "static/js/2.07fb14dd.chunk.js.map": "/breaking-bad-characters/static/js/2.07fb14dd.chunk.js.map",
+    "index.html": "/breaking-bad-characters/index.html",
+    "precache-manifest.71aeb18c77aa2f771d1267134f595a49.js": "/breaking-bad-characters/precache-manifest.71aeb18c77aa2f771d1267134f595a49.js",
+    "service-worker.js": "/breaking-bad-characters/service-worker.js",
+    "static/css/main.f53ddda0.chunk.css.map": "/breaking-bad-characters/static/css/main.f53ddda0.chunk.css.map",
+    "static/js/2.07fb14dd.chunk.js.LICENSE.txt": "/breaking-bad-characters/static/js/2.07fb14dd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad-characters/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/breaking-bad-characters/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/breaking-bad-characters/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45e5277b.js",
+    "static/js/2.07fb14dd.chunk.js",
+    "static/css/main.f53ddda0.chunk.css",
+    "static/js/main.36a420d4.chunk.js"
+  ]
+}
